@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "1056062674368",
+    "firebase_url": "https://instagram-8be62-default-rtdb.firebaseio.com",
+    "project_id": "instagram-8be62",
+    "storage_bucket": "instagram-8be62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056062674368:android:efc0f27a7772de3ad26425",
+        "android_client_info": {
+          "package_name": "com.example.event"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056062674368-e1mudhjn0tc20bb32puape5iel1ueie9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLn7O5-QWtFWxCUBiVOGj_mLRo1EW_1tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056062674368-e1mudhjn0tc20bb32puape5iel1ueie9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056062674368-b8j524alr6tds0o8s60bar3h1v36l5hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramm.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056062674368:android:c92483dfe0286ac2d26425",
+        "android_client_info": {
+          "package_name": "com.example.instagramm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056062674368-e1mudhjn0tc20bb32puape5iel1ueie9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLn7O5-QWtFWxCUBiVOGj_mLRo1EW_1tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056062674368-e1mudhjn0tc20bb32puape5iel1ueie9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056062674368-b8j524alr6tds0o8s60bar3h1v36l5hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramm.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056062674368:android:4d04a979de2e6822d26425",
+        "android_client_info": {
+          "package_name": "com.example.pixelfield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056062674368-e1mudhjn0tc20bb32puape5iel1ueie9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLn7O5-QWtFWxCUBiVOGj_mLRo1EW_1tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056062674368-e1mudhjn0tc20bb32puape5iel1ueie9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056062674368-b8j524alr6tds0o8s60bar3h1v36l5hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramm.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056062674368:android:cfe6c1434e27ad22d26425",
+        "android_client_info": {
+          "package_name": "com.example.pixelfield_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056062674368-e1mudhjn0tc20bb32puape5iel1ueie9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLn7O5-QWtFWxCUBiVOGj_mLRo1EW_1tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056062674368-e1mudhjn0tc20bb32puape5iel1ueie9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056062674368-b8j524alr6tds0o8s60bar3h1v36l5hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramm.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056062674368:android:d09e33097146fae0d26425",
+        "android_client_info": {
+          "package_name": "com.example.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056062674368-e1mudhjn0tc20bb32puape5iel1ueie9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLn7O5-QWtFWxCUBiVOGj_mLRo1EW_1tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056062674368-e1mudhjn0tc20bb32puape5iel1ueie9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056062674368-b8j524alr6tds0o8s60bar3h1v36l5hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramm.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
